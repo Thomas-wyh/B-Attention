@@ -21,7 +21,7 @@ This is an official implementation for "Robust Graph Structure Learning over Ima
   <img src=image/experiment_results.png width=900 height=355 />
 
   ## Case studies on self attention, **Q**-Attention and **B**-Attention
-  <img src=image/case_studies.png width=900 height=1050 />
+  <img src=image/case_studies.png width=900 height=800 />
   
  
   
